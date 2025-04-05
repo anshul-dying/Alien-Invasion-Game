@@ -16,17 +16,17 @@ A classic arcade-style shooting game made using Python and Pygame, inspired by *
 
 ## 📁 Project Structure
 
-Alien Invasion/ 
-├── alien_invasion.py # Main game loop 
-├── settings.py # Game settings 
-├── ship.py # Ship behavior 
-├── bullet.py # Bullet logic 
-├── alien.py # Alien logic 
-├── button.py # Play button 
-├── game_stats.py # Game statistics 
-├── images/ # Store game sprites 
-├── sfx/ # Sound effects 
-└── pycache/ # Auto-generated Python cache
+Alien Invasion/ <br>
+├── alien_invasion.py    # Main game loop <br>
+├── settings.py          # Game settings <br>
+├── ship.py              # Ship behavior <br>
+├── bullet.py            # Bullet logic <br>
+├── alien.py             # Alien logic <br>
+├── button.py            # Play button <br>
+├── game_stats.py        # Game statistics <br>
+├── images/              # Store game sprites <br>
+├── sfx/                 # Sound effects <br>
+└── pycache/             # Auto-generated Python cache <br>
 
 
 ---
@@ -47,7 +47,7 @@ Alien Invasion/
    cd <Your Cloned Directory>
    python alien_invasion.py
    ```
-2. Thats Is Game is running now.... ENJOY!!!
+2. That's it, Game is running now.... ENJOY!!!
 
 ---
 
@@ -74,8 +74,8 @@ Alien Invasion/
 ---
 
 ## 📬 Contact
-Anshul Khaire
-📧 anshulamitkhaire@gmail.com
+Anshul Khaire <br>
+📧 anshulamitkhaire@gmail.com <br>
 🌐 [LinkedIn](https://www.linkedin.com/in/anshul-khaire-77732922a/) | [GitHub](https://github.com/anshul-dying)
 
 ---
